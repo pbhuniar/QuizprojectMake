@@ -1,0 +1,12 @@
+.score{
+    letter-spacing: 1px;
+    border: 4px solid rgba(243, 1, 1, 0.75);
+    border-radius: 40px!important;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+    color: white;
+    width: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:0.4rem;
+}
